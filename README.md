@@ -15,9 +15,18 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev" />
-</div>
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Lua" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="SQL" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Windows" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
