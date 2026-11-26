@@ -7,8 +7,7 @@
 💻 **Freelance Developer** building end-to-end mobile apps with **Flutter & Firebase** and open-world game systems in **Roblox Studio (Luau)**.  
 🔍 Focused on Systems Analysis, Databases, Data Protection, and Technical Documentation.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:jaad09665@gmail.com)
+**[🔗 LinkedIn](https://linkedin.com)** • **[✉️ Email Me](mailto:jaad09665@gmail.com)**
 
 </div>
 
@@ -16,20 +15,9 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Development & Databases:**  
-![Flutter](https://shields.io)
-![Dart](https://shields.io)
-![Firebase](https://shields.io)
-![Lua](https://shields.io)
-![Roblox Studio](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![SQL](https://shields.io)
-
-**Systems, OS & Tools:**  
-![Linux](https://shields.io)
-![Windows](https://shields.io)
-![Git](https://shields.io)
+<div align="center">
+  <img src="https://skillicons.dev" />
+</div>
 
 ---
 
